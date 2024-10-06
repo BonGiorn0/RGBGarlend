@@ -1,0 +1,7 @@
+../Core/Src/RGB_LED.c:12:6:RGB_LED_Init	1
+../Core/Src/RGB_LED.c:23:13:RGB_LED_Update	10
+../Core/Src/RGB_LED.c:43:6:RGB_LED_SetColor	2
+../Core/Src/RGB_LED.c:50:6:RGB_LED_On	1
+../Core/Src/RGB_LED.c:57:6:RGB_LED_Off	10
+../Core/Src/RGB_LED.c:66:10:interpolateColors	1
+../Core/Src/RGB_LED.c:82:6:RGB_LED_Gradient	2
